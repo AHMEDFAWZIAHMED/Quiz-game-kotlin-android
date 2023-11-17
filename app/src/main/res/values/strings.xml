@@ -1,0 +1,78 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz game</string>
+    <string name="quiz_count">Question number :</string>
+    <string name="score_count">Score :</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="exit">Exit</string>
+    <string name="next">Next</string>
+    <string name="final_result">FINAL RESULT</string>
+    <string name="q_1">
+        50 minutes after 12 noon is the  same as 70 minutes before 2 pm.
+    </string>
+    <string name="q_2">
+        The number 78654321098 written in reverse is 89012354687.
+    </string>
+    <string name="q_3">
+        (85%) of 200 is the same as 34 multiplied by 5.
+    </string>
+    <string name="q_4">
+        The word MERCHANT can be spelled using all but one of the letters from the word PARCHMENT.
+    </string>
+    <string name="q_5">
+        This sentence contains the letter \'s\' just seven times.
+    </string>
+    <string name="q_6">
+        200 less 36 is the same as 150 plus 124.
+    </string>
+    <string name="q_7">
+        The letter H is the same distance from the beginning of the alphabet as the letter S is
+        from the end of the alphabet.
+    </string>
+    <string name="q_8">
+        When it is 2.45 an upside-down clock\'s minute hand points to the left.
+    </string>
+    <string name="q_9" tools:ignore="Typos">
+        It is possible to make four four-letter English words from the letters AEDR.
+    </string>
+    <string name="q_10">
+        369, 468, 567 \n the next number in the above sequence is 665.
+    </string>
+    <string name="q_11">
+        Frank is older than Alan but younger than Barry. \n Alan is younger than Frank but older
+        than Paul. \n There for, Paul is the youngest of four.
+    </string>
+    <string name="q_12">
+        If you write down all the numbers from 1 to 50 \n inclusive, you would write the number 5
+        six times.
+    </string>
+    <string name="q_13">
+        15 per cent of 70 is the same as 25 per cent of 42.
+    </string>
+    <string name="q_14">
+        If I write the word LAD under the word MAN and \n the word BOY above the word MAN,
+        the word BAD \n appears reading diagonally.
+    </string>
+    <string name="q_15">
+        A C F H K \n The letter O should appear next in the above sequence.
+    </string>
+    <string name="q_16">
+        CAT COT \? DOG \n The word GOT is missing from the above sequence.
+    </string>
+    <string name="q_17">
+        18   27   34   72   53   84   28 \n Tow of the above number add up to 100 exactly.
+    </string>
+    <string name="q_18">
+        6 May comes 14 days exactly after 22 April.
+    </string>
+    <string name="q_19">
+        Six lions and three ostriches have a total of 30 legs \n between them.
+    </string>
+    <string name="q_20">
+        The number 78521634819 rewritten with all its digits in ascending order is 11234567889.
+    </string>
+    <string name="q_21">
+        In the alphabet, the letter tow before the letter four
+        letters after the letter J is the letter M.
+    </string>
+</resources>
